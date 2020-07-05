@@ -3,7 +3,7 @@ import "../style/App.css";
 import Form from "./Form";
 import Weather from "./Weather";
 
-const APIKey = 'e98fa1a7ff1c8ae4bb1cae370d24b451';
+const APIKey = '';
 
 class App extends Component {
 
